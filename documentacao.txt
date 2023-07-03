@@ -1,2 +1,7 @@
 Projeto para aula de qualidade e testes de software
+<<<<<<< HEAD
 aula e QA
+=======
+
+mudado aqui
+>>>>>>> f1c6f22d187587c29a48688a8febc0efec7eee05
